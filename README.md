@@ -1,4 +1,4 @@
-# kartunama
+# kartu-nama
 
 A new Flutter application.
 
